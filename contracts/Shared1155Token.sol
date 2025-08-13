@@ -22,7 +22,7 @@ contract Shared1155Token is AccessControl, Pausable, ERC1155, ERC1155Burnable, E
     bytes32 public constant MINTER_ROLE = keccak256("MINTER_ROLE");
     bytes32 public constant COLLECTION_CREATOR_ROLE = keccak256("COLLECTION_CREATOR_ROLE");
 
-    // Counters for generating unique token and collection IDs
+    // Counters for generating unique token and collection IDs a
     Counters.Counter private _tokenIdCounter;
     Counters.Counter private _collectionIdCounter;
 
