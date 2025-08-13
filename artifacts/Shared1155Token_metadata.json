@@ -2008,7 +2008,7 @@
 		"compilationTarget": {
 			"contracts/Shared1155Token.sol": "Shared1155Token"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
